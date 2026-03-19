@@ -1,2 +1,2 @@
 vek = 18
-print("Je mi", vek, "let")
+print(f"Je ti {vek} let")
